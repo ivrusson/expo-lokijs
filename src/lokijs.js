@@ -2333,7 +2333,7 @@
      */
     function LokiFsAdapter() {
       try {
-        this.fs = require('fs');
+        this.fs = require('expo-file-system');
       }catch(e) {
         this.fs = null;
       }

@@ -1,15 +1,15 @@
 {
-  "name": "lokijs",
+  "name": "expo-lokijs",
   "version": "1.5.8",
-  "description": "Fast document oriented javascript in-memory database",
-  "homepage": "http://lokijs.org",
+  "description": "(LokiJS filesystem fix for use with Expo SDK) Fast document oriented javascript in-memory database",
+  "homepage": "https://github.com/ivrusson/expo-lokijs",
   "main": "src/lokijs.js",
   "directories": {
     "example": "examples"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/techfort/LokiJS.git"
+    "url": "https://github.com/ivrusson/expo-lokijs.git"
   },
   "keywords": [
     "javascript",
